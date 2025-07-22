@@ -47,7 +47,7 @@ CREATE TABLE `books` (
   `id_autor` int(11) DEFAULT NULL,
   `id_genre` int(11) DEFAULT NULL,
   `year_` int(11) DEFAULT NULL,
-  `status_` enum('dostępny','wypożyczony') DEFAULT NULL
+  `status_` enum('available','borrowed') DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --

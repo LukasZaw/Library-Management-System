@@ -43,6 +43,16 @@
 - style.css contains all UI styling.
 - database.sql provides the schema for initial setup.
 
+## Screenshots
+
+Below are screenshots of the application:
+
+![Main Book List](./images/screenshot_book_list.png)
+![Add Book Form](./images/screenshot_add_book.png)
+![Borrow/Return Workflow](./images/screenshot_borrow_return.png)
+![Transaction History](./images/screenshot_transactions.png)
+
+
 ## External Libraries
 
 - [noUiSlider](https://refreshless.com/nouislider/) (CDN: [cdnjs](https://cdnjs.com/libraries/noUiSlider))
